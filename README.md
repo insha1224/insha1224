@@ -9,7 +9,9 @@
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=insha1224&label=Profile+Views&color=db2777&style=for-the-badge" alt="views" />
-<a href="mailto:inshashaikh1210@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-db2777?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="mailto:inshashaikh1210@gmail.com"><img src="https://img.shields.io/badge/Email-inshashaikh1210@gmail.com-db2777?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="tel:+917760454250"><img src="https://img.shields.io/badge/Phone-7760454250-be185d?style=for-the-badge" alt="phone" /></a>
+
 
 </div>
 
