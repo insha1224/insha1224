@@ -1,119 +1,166 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171329,45:8b2f70,100:ec4899&height=210&section=header&text=INSHA%20SHAIKH&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CLOUD%20%7C%20DEVOPS%20%7C%20TECHNOLOGY&descAlignY=62&descSize=17" width="100%" alt="Insha Shaikh profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0a12,50:831843,100:ec4899&height=280&section=header&text=INSHA%20SHAIKH&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=%F0%9F%8E%AE%20PLAYER%20ONE%20%C2%B7%20CLOUD%20ENGINEER%20IN%20TRAINING%20%C2%B7%20AWS%20%C2%B7%20LINUX%20%C2%B7%20PYTHON&descAlignY=66&descSize=15&animation=twinkling" width="100%" alt="banner" />
 
-<a href="mailto:inshashaikh1210@gmail.com"><img src="https://img.shields.io/badge/LET'S%20CONNECT-Email-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/insha1224"><img src="https://img.shields.io/badge/GITHUB-insha1224-242038?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=800&color=EC4899&center=true&vCenter=true&width=760&height=45&lines=%E2%96%B6+PRESS+START+TO+EXPLORE+MY+PROFILE;%E2%96%B6+LEVEL%3A+Cloud+%26+DevOps+Beginner+%E2%98%81%EF%B8%8F;%E2%96%B6+QUEST%3A+Land+my+first+Cloud+%2F+IT+role+%F0%9F%9A%80;%E2%96%B6+POWER-UPS%3A+AWS+%7C+Linux+%7C+Bash+%7C+Python" alt="typing" />
+</a>
+
+<br/><br/>
+
+<a href="mailto:inshashaikh1210@gmail.com"><img src="https://img.shields.io/badge/EMAIL-inshashaikh1210@gmail.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f1226" alt="email" /></a>
+<a href="tel:+917760454250"><img src="https://img.shields.io/badge/CALL-7760454250-be185d?style=for-the-badge&logo=phone&logoColor=white&labelColor=1f1226" alt="phone" /></a>
+<a href="https://github.com/insha1224"><img src="https://img.shields.io/badge/GITHUB-insha1224-831843?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1226" alt="github" /></a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2600&pause=700&color=EC78B5&center=true&vCenter=true&width=650&lines=BCA+Graduate+%7C+Cloud+%26+DevOps+Learner;Exploring+AWS%2C+Linux+%26+Automation;Building+projects+and+learning+every+day" alt="Typing introduction"/>
+<img src="https://komarev.com/ghpvc/?username=insha1224&label=PLAYERS+VISITED&color=ec4899&style=for-the-badge&labelColor=1f1226" alt="views" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0a12,50:ec4899,100:0d0a12&height=3" width="100%" alt="divider" />
 
-<table>
-<tr>
-<td width="58%" valign="top">
+## 🕹️ `PLAYER PROFILE`
 
-## ✦ A little about me
+```bash
+insha@cloud:~$ ./player_stats.sh
 
-I'm a BCA graduate interested in how technology works behind the scenes — from Linux systems and networks to cloud infrastructure and automation.
+ ┌──────────────────────────────────────────────┐
+ │  NAME      : Insha Shaikh                    │
+ │  CLASS     : Aspiring Cloud Engineer         │
+ │  EDUCATION : BCA Graduate (2025)             │
+ │  TRAINING  : E&ICT Academy, IIT Guwahati     │
+ │  SKILLS    : AWS · Linux · Bash · Python     │
+ │  STATUS    : Open to entry-level roles  🟢   │
+ └──────────────────────────────────────────────┘
+```
 
-- ☁️ Learning **AWS & Cloud Computing**
-- 🐧 Practising **Linux and Bash**
-- 🐍 Building confidence with **Python**
-- 🔧 Exploring **DevOps and IT operations**
-- 🎯 Looking for an opportunity to learn, contribute and grow in an entry-level Cloud / IT role
+<br/>
 
-</td>
-<td width="42%" valign="top">
+## ⚡ `POWER-UPS (SKILLS)`
 
-## ✦ My focus
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,bash,python,git,github,html,css&perline=3" alt="Technology skills"/>
+<img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,bash,python,sqlite,git,github,html,css&theme=dark" alt="skills" />
 
-**Cloud** · AWS EC2, S3  
-**Systems** · Linux, Ubuntu  
-**Code** · Python, Bash, Java basics  
-**Web** · HTML, CSS  
-**Data** · SQLite
+<br/><br/>
 
-</td>
-</tr>
-</table>
+**☁️ AWS (EC2 · S3)** &nbsp; ![AWS](https://img.shields.io/badge/LVL-█████████░-ec4899?style=flat-square&labelColor=1f1226)
+**🐧 Linux & Ubuntu** &nbsp; ![Linux](https://img.shields.io/badge/LVL-█████████░-ec4899?style=flat-square&labelColor=1f1226)
+**📜 Bash Scripting** &nbsp; ![Bash](https://img.shields.io/badge/LVL-████████░░-be185d?style=flat-square&labelColor=1f1226)
+**🐍 Python** &nbsp; ![Python](https://img.shields.io/badge/LVL-███████░░░-be185d?style=flat-square&labelColor=1f1226)
+**🌐 Networking & RBAC** &nbsp; ![Net](https://img.shields.io/badge/LVL-███████░░░-831843?style=flat-square&labelColor=1f1226)
+**☕ Java** &nbsp; ![Java](https://img.shields.io/badge/LVL-███░░░░░░░-831843?style=flat-square&labelColor=1f1226)
 
-## ✦ Featured projects
+</div>
+
+<br/>
+
+## 🎯 `MISSIONS (PROJECTS)`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ Linux Server Administration
+### 🐧 Mission 01: Linux Server
+Ubuntu 22.04 server with Apache, UFW firewall, SSH key login, daily health reports and log rotation.
 
-A practical Ubuntu server setup covering everyday administration tasks.
+`Bash` `Apache` `UFW` `Cron`
 
-`Ubuntu` `Apache` `UFW` `SSH` `Bash`
-
-[**Explore project ↗**](https://github.com/insha1224/Linux-server-administration)
+**[▶ Play Mission →](https://github.com/insha1224/Linux-server-administration)**
 
 </td>
 <td width="50%" valign="top">
 
-### ☁️ AWS Static Website Hosting
+### ☁️ Mission 02: AWS Hosting
+A static website hosted on AWS cloud infrastructure.
 
-A hands-on project exploring static website hosting with AWS S3.
+`AWS` `S3` `Hosting`
 
-`AWS` `Amazon S3` `Cloud`
-
-[**Explore project ↗**](https://github.com/insha1224/aws-static-website-hosting)
+**[▶ Play Mission →](https://github.com/insha1224/aws-static-website-hosting)**
 
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td colspan="2" valign="top">
 
-### 🔐 DevSecOps Practice
-
-A practice repository for exploring DevOps concepts and security-focused workflows.
+### 🔐 Mission 03: DevSecOps Practice
+Hands-on DevOps and security practice repository.
 
 `DevOps` `Automation`
 
-[**Explore project ↗**](https://github.com/insha1224/mar-devsecops-repo)
+**[▶ Play Mission →](https://github.com/insha1224/mar-devsecops-repo)**
 
 </td>
 </tr>
 </table>
 
-## ✦ Learning journey
+<br/>
 
-<details>
-<summary><b>Education & training — click to expand</b></summary>
-
-- **BCA** — KLE Society's RLS Institute of Management Studies (2022–2025)
-- **Cloud Computing Master Program** — Besant Technologies
-- **Cloud & DevOps training** — E&ICT Academy, IIT Guwahati
-
-</details>
-
-## ✦ GitHub at a glance
+## 🐍 `PLAY SNAKE ON MY CONTRIBUTIONS`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=insha1224&show_icons=true&hide_border=true&bg_color=171329&title_color=F28CC5&icon_color=F28CC5&text_color=F5EAF2&rank_icon=github" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=insha1224&layout=compact&hide_border=true&bg_color=171329&title_color=F28CC5&text_color=F5EAF2" alt="Top languages"/>
+<img src="https://raw.githubusercontent.com/insha1224/insha1224/output/github-snake-dark.svg" alt="snake animation" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=insha1224&bg_color=171329&color=F5EAF2&line=EC4899&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity"/>
+<sub>The snake eats my commits. Feed it by committing more! 🍎</sub>
 
 </div>
 
----
+<br/>
+
+## 🏆 `ACHIEVEMENTS`
 
 <div align="center">
 
-### ✧ Curious mind. Practical skills. Always building. ✧
+<img src="https://github-profile-trophy.vercel.app/?username=insha1224&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,55:8b2f70,100:171329&height=100&section=footer" width="100%" alt="Pink footer banner"/>
+</div>
+
+<br/>
+
+## 📜 `LEVEL HISTORY (LEARNING JOURNEY)`
+
+| 🎮 Level | 🏫 Program | 📚 Unlocked |
+|:--:|:--|:--|
+| 3 | **E&ICT Academy, IIT Guwahati** | AWS EC2 & S3, Linux admin, networking, RBAC |
+| 2 | **Besant Technologies** | Cloud Computing Master Program |
+| 1 | **KLE Society's College of BCA** | Bachelor of Computer Applications (2025) |
+
+<br/>
+
+## 📊 `SCOREBOARD`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=insha1224&show_icons=true&hide_border=true&bg_color=0d0a12&title_color=ec4899&icon_color=ec4899&text_color=e5e7eb" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=insha1224&layout=compact&hide_border=true&bg_color=0d0a12&title_color=ec4899&text_color=e5e7eb" alt="languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=insha1224&hide_border=true&background=0d0a12&ring=ec4899&fire=ec4899&currStreakLabel=ec4899&sideLabels=e5e7eb&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" alt="streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=insha1224&bg_color=0d0a12&color=ec4899&line=be185d&point=ffffff&area=true&hide_border=true" alt="activity" />
+
+</div>
+
+<br/>
+
+## 🔮 `NEXT QUESTS`
+
+- 🌱 Build more hands-on **AWS and Linux** projects
+- 🐍 Level up **Python** and learn **Java**
+- 🔍 Find my first **entry-level cloud / IT role**
+- 🤝 Team up with other learners and builders
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=EC4899&center=true&vCenter=true&width=600&lines=GAME+ON.+Let's+build+something+great+%F0%9F%8E%AE;Thanks+for+visiting%21+%F0%9F%92%97" alt="footer typing" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,55:831843,100:0d0a12&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
