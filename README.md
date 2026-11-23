@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0a12,50:831843,100:ec4899&height=280&section=header&text=INSHA%20SHAIKH&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=%F0%9F%8E%AE%20PLAYER%20ONE%20%C2%B7%20CLOUD%20ENGINEER%20IN%20TRAINING%20%C2%B7%20AWS%20%C2%B7%20LINUX%20%C2%B7%20PYTHON&descAlignY=66&descSize=15&animation=twinkling" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0a12,50:831843,100:ec4899&height=280&section=header&text=INSHA%20SHAIKH&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=%F0%9F%8E%AE%20PLAYER%20ONE%20%C2%B7%20CLOUD%20ENGINEER%20IN%20TRAINING%20%C2%B7%20AWS%20%C2%B7%20LINUX%20%C2%B7%20PYTHON&descAlignY=66&descSize=15&animation=fadeIn" width="100%" alt="banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=800&color=EC4899&center=true&vCenter=true&width=760&height=45&lines=%E2%96%B6+PRESS+START+TO+EXPLORE+MY+PROFILE;%E2%96%B6+LEVEL%3A+Cloud+%26+DevOps+Beginner+%E2%98%81%EF%B8%8F;%E2%96%B6+QUEST%3A+Land+my+first+Cloud+%2F+IT+role+%F0%9F%9A%80;%E2%96%B6+POWER-UPS%3A+AWS+%7C+Linux+%7C+Bash+%7C+Python" alt="typing" />
